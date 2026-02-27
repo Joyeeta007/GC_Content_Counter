@@ -1,4 +1,4 @@
-GC Content Counter
+## GC Content Counter
 
 A simple Python script to calculate the GC content of a DNA sequence. The program validates the DNA sequence input and calculates the number of G and C bases, the total GC content, and the GC percentage.
 Features :
@@ -27,7 +27,6 @@ Learnings: Used formatted strings (f'') for clearer messages.
 
 ## Requirements
 - Python 3.x  
-No additional libraries are required.
 
 ## Usage
 Clone the repository:
