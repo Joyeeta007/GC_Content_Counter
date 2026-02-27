@@ -9,6 +9,7 @@ Features :
 
 ## Development Process:
 Here’s how I developed this project through multiple attempts and what I learned from each:
+
 Initiative 1:
 Built a basic GC content calculator.
 Learnings: Taking input, looping through input, performing calculations, using built-in count() function.
@@ -41,7 +42,11 @@ Example Output:
 
 Enter DNA Sequence: ATGCGCAT
 C count: 3
+
 G count: 3
+
 GC sum: 6
+
 Sequence length: 8
+
 GC Content: 75.00%
