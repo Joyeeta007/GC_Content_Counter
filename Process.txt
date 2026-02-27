@@ -1,0 +1,37 @@
+Initiative 1:
+
+I tried to make a gc content calculator
+
+learnings:
+1. Taking input
+2. Looping through input
+3. Calculation the stuff
+4. knowing built in function about count
+
+Initiative 2:
+
+Noticed that the sequence user can give error, 
+so I need to validate input
+
+Learning:
+1. loopin gthrough input
+2. applied terms (not in) 
+
+Initiative 3:
+
+Noticed what I validated is initially it will just look for atgc but 
+is also accepting the other strings if that contained atgc
+
+learnings:
+1. applied while loop
+2. then run the input
+3. if that contain invald string it will take input again and break if 
+the sequence is valid.
+
+Initiative 4:
+
+looks like if I detect the error in the string input, it will make user
+more observable in their sequence.
+
+learnings:
+1. Applying f'' in printing
