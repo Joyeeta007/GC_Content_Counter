@@ -28,6 +28,6 @@ print("C : ",countC)
 print("G : ",countG)
 print("gc sum : ", gc_content)
 print("Length: ", length)
-print("Final GC Content: ",content)
+print(f"Final GC Content: {content: .2f}%")
 
 
